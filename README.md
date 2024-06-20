@@ -1,3 +1,5 @@
+![Screenshot (1746)](https://github.com/kavish155/kavish155-banglore-house-price-prediction-project/assets/91543027/15eb5af4-7750-4251-8fcf-c3f60439043c)
+
 A full end-end machine learning project that predicts house prices based on area, location, etc in banglore
 
 -> Performed EDA, data cleaning, outlier removal, feature engineering and feature selection on the dataset .
